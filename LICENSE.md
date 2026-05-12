@@ -1,4 +1,4 @@
-# 
+# Gimp for macOS premium Script - plugin support and version history offers the most advanced Gimp for macOS script, with plugin support and version history. Ideal for professional
 
 
 
